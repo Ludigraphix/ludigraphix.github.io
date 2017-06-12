@@ -2,6 +2,8 @@
 
 Ludigraphix is a geometry oriented vector drawing software. This mean that shapes are defined by points that can be shared with other shapes. This allow you to build complex shapes that can be manupulates in a lot of different ways.
 
+![LGX-demo-intro-01.gif](http://i.imgur.com/dWxK4p1.gifv)
+
 ## How to get Ludigraphix ?
 
 It will be soon available on Steam and on the Mac AppStore
