@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 
-table { width: 100%; border: 0px solid #ebebeb; }
+table.tools { width: 100%; border: 0px solid #ebebeb; }
 
 th { font-weight: 500; }
 
-td { font-weight: 300; text-align: left; border: 0px solid #ebebeb; }
+table.tools tbody tr td { font-weight: 300; text-align: left; border: 0px solid #ebebeb; }
 
 img.icon { width:24px; height:24px; vertical-align:middle; }
 

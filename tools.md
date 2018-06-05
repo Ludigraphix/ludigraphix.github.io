@@ -2,7 +2,7 @@
 
 ### Simple commands
 
-<table border="0">
+<table class="tools" class="tools">
     <tbody>
         <tr>
             <td width="40">
@@ -57,7 +57,7 @@
 
 ### Simple edition modes
 
-<table>
+<table class="tools">
     <tbody>
         <tr>
             <td width="40">
@@ -82,7 +82,7 @@
 
 ### Simple point creation modes
 
-<table>
+<table class="tools">
     <tbody>
         <tr>
             <td width="40">
@@ -125,7 +125,7 @@
 
 ### Translated points creation modes
 
-<table>
+<table class="tools">
     <tbody>
         <tr>
             <td width="40">
@@ -156,7 +156,7 @@
 
 ### Computed points creation modes
 
-<table>
+<table class="tools">
     <tbody>
         <tr>
             <td width="40">
@@ -211,7 +211,7 @@
 
 ### Shapes, lines and curves creation modes
 
-<table>
+<table class="tools">
     <tbody>
         <tr>
             <td width="40">
@@ -242,7 +242,7 @@
 
 ### Circles creation modes
 
-<table>
+<table class="tools">
     <tbody>
         <tr>
             <td width="40">
@@ -267,7 +267,7 @@
 
 ### Ellipses creation modes
 
-<table>
+<table class="tools">
     <tbody>
         <tr>
             <td width="40">
@@ -298,7 +298,7 @@
 
 ### Squares creation modes
 
-<table>
+<table class="tools">
     <tbody>
         <tr>
             <td width="40">
@@ -329,7 +329,7 @@
 
 ### Rectangles creation modes
 
-<table>
+<table class="tools">
     <tbody>
         <tr>
             <td width="40">

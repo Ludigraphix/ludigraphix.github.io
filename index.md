@@ -27,7 +27,9 @@ Ludigraphix is currently available on the [Mac App Store](https://itunes.apple.c
 * Previous created points can be reused for new shapes, that is the easiest way to link shapes together.
 * When creating a point, a currently existing point can be replaced by clicking on it at last creation step.
 
-Here is the list of [tools availables](tools)
+## List of [all tools availables](tools)
+
+## How to use [color effects](color-effects) ?
 
 # Improvments
 This documentation is a work in progress.
