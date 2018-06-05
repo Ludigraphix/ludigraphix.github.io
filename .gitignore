@@ -1,4 +1,12 @@
+
+# Bundle
+Gemfile.lock
+
+# Jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# MacOs
+.DS_Store
