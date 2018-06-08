@@ -3,10 +3,10 @@
 
 @import "{{ site.theme }}";
 
+td { padding: 3px; }
+th { font-weight: 500; }
 
 table.tools { width: 100%; border: 0px solid #ebebeb; }
-
-th { font-weight: 500; }
 
 table.tools tbody tr td { font-weight: 300; text-align: left; border: 0px solid #ebebeb; }
 
