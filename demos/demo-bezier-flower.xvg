@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="no"?>
+<xvg bgcolor="#ffffff" height="600" width="800">
+  <points>
+    <point cx="380" cy="308" name="Point1" persistent="true" visible="true"/>
+    <point cx="554" cy="185" name="Point2" persistent="true" visible="true"/>
+    <point_on_plane angle="-245.4541559750044" fixed_angle="false" fixed_ratio="false" name="Point3" persistent="true" pt1="Point1" pt2="Point2" ratio="0.13608625399783625" visible="true"/>
+    <point_on_plane angle="-136.15733306902547" fixed_angle="false" fixed_ratio="false" name="Point6" persistent="true" pt1="Point2" pt2="Point1" ratio="0.45702628367235471" visible="true"/>
+    <point_on_plane angle="-322.97257124064896" fixed_angle="false" fixed_ratio="false" name="Point9" persistent="true" pt1="Point1" pt2="Point2" ratio="1.4614249010285545" visible="true"/>
+    <point_on_plane angle="64.472546878412842" fixed_angle="false" fixed_ratio="false" name="Point12" persistent="true" pt1="Point1" pt2="Point2" ratio="1.2971549301450434" visible="true"/>
+    <point_on_plane angle="-263.46094209803459" fixed_angle="false" fixed_ratio="false" name="Point15" persistent="true" pt1="Point1" pt2="Point2" ratio="1.4684649842771011" visible="true"/>
+    <point_on_plane angle="-238.09788806276501" fixed_angle="false" fixed_ratio="false" name="Point18" persistent="true" pt1="Point1" pt2="Point2" ratio="1.3019764965550729" visible="true"/>
+    <point_on_plane angle="143.18733883486539" fixed_angle="false" fixed_ratio="false" name="Point21" persistent="true" pt1="Point1" pt2="Point2" ratio="1.1434579902299444" visible="true"/>
+    <point_on_plane angle="-186.26065092686696" fixed_angle="false" fixed_ratio="false" name="Point24" persistent="true" pt1="Point1" pt2="Point2" ratio="1.342588731948462" visible="true"/>
+    <point_on_plane angle="212.26747811577351" fixed_angle="false" fixed_ratio="false" name="Point27" persistent="true" pt1="Point1" pt2="Point2" ratio="1.2100210508070619" visible="true"/>
+    <point_on_plane angle="247.56769696166194" fixed_angle="false" fixed_ratio="false" name="Point30" persistent="true" pt1="Point1" pt2="Point2" ratio="1.2246407751038322" visible="true"/>
+    <point_on_plane angle="291.67632111153546" fixed_angle="false" fixed_ratio="false" name="Point33" persistent="true" pt1="Point1" pt2="Point2" ratio="1.2491710663000417" visible="true"/>
+    <point_on_plane angle="330.06794229500338" fixed_angle="false" fixed_ratio="false" name="Point36" persistent="true" pt1="Point1" pt2="Point2" ratio="1.4056417249240742" visible="true"/>
+    <point_on_line name="Point72" persistent="true" pt1="Point3" pt2="Point15" ratio="0.79670085846945915" visible="true"/>
+    <point_on_line name="Point75" persistent="true" pt1="Point3" pt2="Point12" ratio="0.75666752498003087" visible="true"/>
+    <point_on_line name="Point78" persistent="true" pt1="Point3" pt2="Point9" ratio="0.76216477026887441" visible="true"/>
+    <point_on_line name="Point81" persistent="true" pt1="Point3" pt2="Point6" ratio="0.76325502518779798" visible="true"/>
+    <point_on_line name="Point84" persistent="true" pt1="Point3" pt2="Point36" ratio="0.75466009354383123" visible="true"/>
+    <point_on_line name="Point87" persistent="true" pt1="Point3" pt2="Point33" ratio="0.69467161070534056" visible="true"/>
+    <point_on_line name="Point90" persistent="true" pt1="Point3" pt2="Point30" ratio="0.7696400596669366" visible="true"/>
+    <point_on_line name="Point93" persistent="true" pt1="Point3" pt2="Point27" ratio="0.73934940485232448" visible="true"/>
+    <point_on_line name="Point96" persistent="true" pt1="Point3" pt2="Point24" ratio="0.73645605974173112" visible="true"/>
+    <point_on_line name="Point99" persistent="true" pt1="Point3" pt2="Point21" ratio="0.8057520038172199" visible="true"/>
+    <point_on_line name="Point102" persistent="true" pt1="Point3" pt2="Point18" ratio="0.88703607396549689" visible="true"/>
+    <point_on_line name="Point138" persistent="true" pt1="Point3" pt2="Point102" ratio="0.7702157966151213" visible="true"/>
+    <point_on_line name="Point141" persistent="true" pt1="Point3" pt2="Point72" ratio="0.79486999241374079" visible="true"/>
+    <point_on_line name="Point144" persistent="true" pt1="Point75" pt2="Point3" ratio="0.19603830660168606" visible="true"/>
+    <point_on_line name="Point147" persistent="true" pt1="Point78" pt2="Point3" ratio="0.22888941494536999" visible="true"/>
+    <point_on_line name="Point150" persistent="true" pt1="Point81" pt2="Point3" ratio="0.26591699993127399" visible="true"/>
+    <point_on_line name="Point156" persistent="true" pt1="Point3" pt2="Point84" ratio="0.7093685410332029" visible="true"/>
+    <point_on_line name="Point159" persistent="true" pt1="Point3" pt2="Point87" ratio="0.69351333682711158" visible="true"/>
+    <point_on_line name="Point162" persistent="true" pt1="Point3" pt2="Point90" ratio="0.79935548368167286" visible="true"/>
+    <point_on_line name="Point165" persistent="true" pt1="Point3" pt2="Point93" ratio="0.70542050989134364" visible="true"/>
+    <point_on_line name="Point168" persistent="true" pt1="Point3" pt2="Point96" ratio="0.72863869390504699" visible="true"/>
+    <point_on_line name="Point171" persistent="true" pt1="Point3" pt2="Point99" ratio="0.657886705778014" visible="true"/>
+    <point_on_line name="Point174" persistent="true" pt1="Point3" pt2="Point138" ratio="0.64839732574417075" visible="true"/>
+  </points>
+
+  <beziergon closed="true" show_points="True" start="Point3" stroke-width="1">
+    <Color color="#8080c0" parameter="fill"/>
+    <Color color="#404060" parameter="stroke-fill"/>
+    <PeriodicSaw alternate="false" parameter="path-transform" steps="5, 4, 2, 3" widths="5, 3, 4"/>
+    <points/>
+    <curve_to ctr1="Point36" ctr2="Point33" end="Point3"/>
+    <curve_to ctr1="Point33" ctr2="Point30" end="Point3"/>
+    <curve_to ctr1="Point30" ctr2="Point27" end="Point3"/>
+    <curve_to ctr1="Point27" ctr2="Point24" end="Point3"/>
+    <curve_to ctr1="Point24" ctr2="Point21" end="Point3"/>
+    <curve_to ctr1="Point21" ctr2="Point18" end="Point3"/>
+    <curve_to ctr1="Point18" ctr2="Point15" end="Point3"/>
+    <curve_to ctr1="Point15" ctr2="Point12" end="Point3"/>
+    <curve_to ctr1="Point12" ctr2="Point9" end="Point3"/>
+    <curve_to ctr1="Point9" ctr2="Point6" end="Point3"/>
+    <curve_to ctr1="Point6" ctr2="Point36" end="Point3"/>
+  </beziergon>
+
+  <beziergon closed="true" show_points="true" start="Point3" stroke-width="0.5" width="3">
+    <Color color="#8080ff" parameter="fill"/>
+    <Color color="#0000ff" parameter="stroke-fill"/>
+    <PeriodicSaw alternate="false" parameter="path-transform" steps="5, 3, 2" widths="2, 1, 3"/>
+    <points/>
+    <curve_to ctr1="Point84" ctr2="Point87" end="Point3"/>
+    <curve_to ctr1="Point87" ctr2="Point90" end="Point3"/>
+    <curve_to ctr1="Point90" ctr2="Point93" end="Point3"/>
+    <curve_to ctr1="Point93" ctr2="Point96" end="Point3"/>
+    <curve_to ctr1="Point96" ctr2="Point99" end="Point3"/>
+    <curve_to ctr1="Point99" ctr2="Point102" end="Point3"/>
+    <curve_to ctr1="Point102" ctr2="Point72" end="Point3"/>
+    <curve_to ctr1="Point72" ctr2="Point75" end="Point3"/>
+    <curve_to ctr1="Point75" ctr2="Point78" end="Point3"/>
+    <curve_to ctr1="Point78" ctr2="Point81" end="Point3"/>
+    <curve_to ctr1="Point81" ctr2="Point84" end="Point3"/>
+  </beziergon>
+
+  <beziergon closed="true" show_points="true" start="Point3" stroke-width="0.4">
+    <Color color="#b8a7fe" parameter="fill"/>
+    <Color color="#8f55fb" parameter="stroke-fill"/>
+    <SegmentEffect parameter="path-transform">
+      <stepper.random max="3" min="0.1" parameter="steps"/>
+      <element.saw parameter="element">
+        <width.proportional alternate="false" factor="1" parameter="width"/>
+      </element.saw>
+    </SegmentEffect>
+    <points/>
+    <curve_to ctr1="Point141" ctr2="Point144" end="Point3"/>
+    <curve_to ctr1="Point144" ctr2="Point147" end="Point3"/>
+    <curve_to ctr1="Point147" ctr2="Point150" end="Point3"/>
+    <curve_to ctr1="Point150" ctr2="Point156" end="Point3"/>
+    <curve_to ctr1="Point156" ctr2="Point159" end="Point3"/>
+    <curve_to ctr1="Point159" ctr2="Point162" end="Point3"/>
+    <curve_to ctr1="Point162" ctr2="Point165" end="Point3"/>
+    <curve_to ctr1="Point165" ctr2="Point168" end="Point3"/>
+    <curve_to ctr1="Point168" ctr2="Point171" end="Point3"/>
+    <curve_to ctr1="Point171" ctr2="Point174" end="Point3"/>
+    <curve_to ctr1="Point174" ctr2="Point141" end="Point3"/>
+  </beziergon>
+
+</xvg>

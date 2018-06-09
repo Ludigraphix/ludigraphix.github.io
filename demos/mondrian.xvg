@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<xvg bgcolor="#fffefe" height="512" width="512">
+  <points>
+    <point cx="16" cy="16" name="Point1" persistent="True" visible="true"/>
+    <point cx="16" cy="496" name="Point2" persistent="True" visible="true"/>
+    <point_on_line name="Point5" persistent="true" pt1="Point1" pt2="Point2" ratio="0.18541666666666667" visible="true"/>
+    <point_on_plane angle="90.000000000568477" fixed_angle="false" fixed_ratio="false" name="Point6" persistent="true" pt1="Point1" pt2="Point2" ratio="1" visible="true"/>
+    <point_on_plane angle="-90.000000000550855" fixed_angle="false" fixed_ratio="false" name="Point7" persistent="true" pt1="Point2" pt2="Point1" ratio="1" visible="true"/>
+    <projected_point name="Point9" persistent="true" pt1="Point6" pt2="Point7" target="Point5" visible="true"/>
+    <point_on_line name="Point8" persistent="true" pt1="Point1" pt2="Point6" ratio="0.21041666542451587" visible="true"/>
+    <projected_point name="Point11" persistent="true" pt1="Point2" pt2="Point7" target="Point8" visible="true"/>
+    <intersection bounded="false" name="Point13" persistent="true" pt11="Point8" pt12="Point11" pt21="Point5" pt22="Point9" visible="true"/>
+    <point_on_line name="Point12" persistent="true" pt1="Point13" pt2="Point11" ratio="0.77672228607527805" visible="true"/>
+    <point_on_line name="Point10" persistent="true" pt1="Point13" pt2="Point9" ratio="0.76955062161709675" visible="true"/>
+    <projected_point name="Point14" persistent="true" pt1="Point11" pt2="Point7" target="Point10" visible="true"/>
+    <projected_point name="Point16" persistent="true" pt1="Point14" pt2="Point10" target="Point12" visible="true"/>
+    <point_on_line name="Point18" persistent="true" pt1="Point10" pt2="Point16" ratio="0.38179088669294681" visible="true"/>
+    <point_on_line name="Point17" persistent="true" pt1="Point12" pt2="Point16" ratio="0.66771638399423983" visible="true"/>
+    <projected_point name="Point19" persistent="true" pt1="Point11" pt2="Point14" target="Point17" visible="true"/>
+    <projected_point name="Point21" persistent="true" pt1="Point9" pt2="Point7" target="Point18" visible="true"/>
+  </points>
+
+  <polygon closed="true" show_points="true" stroke-width="0">
+    <Color color="#ff0000" parameter="fill"/>
+    <Color color="#404060" parameter="stroke-fill"/>
+    <line_to point="Point5"/>
+    <line_to point="Point1"/>
+    <line_to point="Point8"/>
+    <line_to point="Point13"/>
+  </polygon>
+
+  <polygon closed="true" show_points="true" stroke-width="0">
+    <Color color="#ffff00" parameter="fill"/>
+    <Color color="#404060" parameter="stroke-fill"/>
+    <line_to point="Point12"/>
+    <line_to point="Point11"/>
+    <line_to point="Point19"/>
+    <line_to point="Point17"/>
+  </polygon>
+
+  <polygon closed="true" show_points="true" stroke-width="0">
+    <Color color="#00ca00" parameter="fill"/>
+    <Color color="#404060" parameter="stroke-fill"/>
+    <line_to point="Point17"/>
+    <line_to point="Point16"/>
+    <line_to point="Point14"/>
+    <line_to point="Point19"/>
+  </polygon>
+
+  <polygon closed="true" show_points="true" stroke-width="0">
+    <Color color="#0000ff" parameter="fill"/>
+    <Color color="#404060" parameter="stroke-fill"/>
+    <line_to point="Point10"/>
+    <line_to point="Point9"/>
+    <line_to point="Point21"/>
+    <line_to point="Point18"/>
+  </polygon>
+
+  <polyline closed="false" show_points="true" stroke-width="0" width="24">
+    <Color color="#000000" parameter="fill"/>
+    <Color color="#404060" parameter="stroke-fill"/>
+    <line_to point="Point1"/>
+    <line_to point="Point6"/>
+    <line_to point="Point9"/>
+    <line_to point="Point21"/>
+    <line_to point="Point18"/>
+    <line_to point="Point21"/>
+    <line_to point="Point7"/>
+    <line_to point="Point2"/>
+    <line_to point="Point1"/>
+    <line_to point="Point8"/>
+    <line_to point="Point13"/>
+    <line_to point="Point5"/>
+    <line_to point="Point9"/>
+    <line_to point="Point10"/>
+    <line_to point="Point14"/>
+    <line_to point="Point11"/>
+    <line_to point="Point12"/>
+    <line_to point="Point16"/>
+    <line_to point="Point14"/>
+    <line_to point="Point19"/>
+    <line_to point="Point17"/>
+    <line_to point="Point12"/>
+    <line_to point="Point13"/>
+  </polyline>
+
+</xvg>

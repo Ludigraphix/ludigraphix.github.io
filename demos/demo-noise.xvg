@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="no"?>
+<xvg bgcolor="#ffffffff" height="600" width="800">
+  <points>
+    <point cx="175" cy="168" name="Point3" persistent="true" visible="true"/>
+    <point cx="440" cy="68" name="Point2" persistent="true" visible="true"/>
+    <point cx="497" cy="171" name="Point1" persistent="true" visible="true"/>
+    <point cx="54" cy="176" name="Point4" persistent="true" visible="true"/>
+    <point cx="426" cy="106" name="Point14" persistent="false" visible="true"/>
+    <point cx="517" cy="188" name="Point15" persistent="false" visible="true"/>
+    <point cx="66" cy="141" name="Point16" persistent="false" visible="true"/>
+    <point cx="270" cy="259" name="Point17" persistent="false" visible="true"/>
+    <point cx="179" cy="434" name="Point5" persistent="true" visible="true"/>
+    <point cx="58" cy="442" name="Point6" persistent="true" visible="true"/>
+    <point cx="495" cy="443" name="Point18" persistent="true" visible="true"/>
+    <point cx="374" cy="451" name="Point19" persistent="true" visible="true"/>
+    <point cx="155" cy="432" name="Point7" persistent="false" visible="true"/>
+    <point cx="242" cy="493" name="Point8" persistent="false" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point22" persistent="true" pt1="Point19" pt2="Point18" ratio_x="0.46004760285617141" ratio_y="-0.33321999319959195" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point23" persistent="true" pt1="Point19" pt2="Point18" ratio_x="0.90574634478068683" ratio_y="0.17558653519211154" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point21" persistent="true" pt1="Point19" pt2="Point18" ratio_x="1.7162189731383883" ratio_y="0.66718803128187687" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point20" persistent="true" pt1="Point19" pt2="Point18" ratio_x="0.060727643658619518" ratio_y="-0.2935056103366202" visible="true"/>
+    <point_on_plane angle="-124.36100022216068" fixed_angle="false" fixed_ratio="False" name="Point12" persistent="true" pt1="Point1" pt2="Point2" ratio="0.42511461886286883" visible="true"/>
+    <point_on_plane angle="-106.26630844609434" fixed_angle="false" fixed_ratio="false" name="Point13" persistent="true" pt1="Point1" pt2="Point12" ratio="1.2483939401797073" visible="true"/>
+  </points>
+
+  <circle_by_center_point center="Point3" name="shape2" point="Point4" show-connections="true" stroke-width="0">
+    <Color color="#808080" parameter="stroke-fill"/>
+    <PerlinNoise fx="0.050000000000000003" fy="0.050000000000000003" mode="0" octaves="3" parameter="fill" pt1="Point16" pt2="Point17"/>
+  </circle_by_center_point>
+
+  <circle_by_center_point center="Point1" name="shape1" point="Point2" show-connections="true" stroke-width="0">
+    <Color color="#808080" parameter="stroke-fill"/>
+    <AlphaPerlinNoise color="#8080ff" fx="0.050000000000000003" fy="0.050000000000000003" mode="0" octaves="3" parameter="fill" pt1="Point14" pt2="Point15"/>
+  </circle_by_center_point>
+
+  <circle_by_center_point center="Point5" name="shape3" point="Point6" show-connections="true" stroke-width="0">
+    <Color color="#808080" parameter="stroke-fill"/>
+    <GradientPerlinNoise color1="#80ffff" color2="#8000ff" fx="0.050000000000000003" fy="0.050000000000000003" mode="0" octaves="3" parameter="fill" pt1="Point7" pt2="Point8"/>
+  </circle_by_center_point>
+
+  <circle_by_center_point center="Point18" name="shape4" point="Point19" show-connections="true" stroke-width="0">
+    <Color color="#808080" parameter="stroke-fill"/>
+    <LinearGradient color1="#008040" color2="#80ff00" parameter="fill" pt1="Point20" pt2="Point21"/>
+  </circle_by_center_point>
+
+  <circle_by_center_point center="Point18" name="shape5" point="Point19" show-connections="true" stroke-width="2">
+    <Color color="#404060" parameter="stroke-fill"/>
+    <HuePerlinNoise fx="0.050000000000000003" fy="0.050000000000000003" mode="0" octaves="3" parameter="fill" pt1="Point22" pt2="Point23" strength="0.2"/>
+  </circle_by_center_point>
+
+</xvg>

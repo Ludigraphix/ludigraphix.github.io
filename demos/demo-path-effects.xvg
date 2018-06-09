@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="no"?>
+<xvg bgcolor="#ffffff" height="540" width="765">
+  <points>
+    <point cx="26" cy="89" name="Point1" persistent="false" visible="true"/>
+    <point cx="171" cy="42" name="Point2" persistent="false" visible="true"/>
+    <point cx="181" cy="154" name="Point3" persistent="false" visible="true"/>
+    <point cx="121" cy="88" name="Point10" persistent="true" visible="true"/>
+    <point cx="123" cy="452" name="Point11" persistent="true" visible="true"/>
+    <translated_by_vector name="Point56" persistent="true" pt1="Point10" pt2="Point1" target="Point11" visible="true"/>
+    <translated_by_vector name="Point52" persistent="true" pt1="Point10" pt2="Point3" target="Point11" visible="true"/>
+    <translated_by_vector name="Point48" persistent="true" pt1="Point10" pt2="Point2" target="Point11" visible="true"/>
+    <point_on_plane angle="90.000000000633605" fixed_angle="false" fixed_ratio="false" name="Point14" persistent="true" pt1="Point10" pt2="Point11" ratio="1.3333333333333333" visible="true"/>
+    <middle name="Point16" persistent="true" pt1="Point11" pt2="Point10" visible="true"/>
+    <middle name="Point6" persistent="true" pt1="Point14" pt2="Point11" visible="true"/>
+    <translated_by_vector name="Point75" persistent="true" pt1="Point10" pt2="Point3" target="Point14" visible="true"/>
+    <translated_by_vector name="Point72" persistent="true" pt1="Point10" pt2="Point2" target="Point14" visible="true"/>
+    <translated_by_vector name="Point71" persistent="true" pt1="Point10" pt2="Point1" target="Point14" visible="true"/>
+    <middle name="Point19" persistent="true" pt1="Point10" pt2="Point14" visible="true"/>
+    <translated_by_vector name="Point39" persistent="true" pt1="Point10" pt2="Point2" target="Point16" visible="true"/>
+    <translated_by_vector name="Point40" persistent="true" pt1="Point10" pt2="Point1" target="Point16" visible="true"/>
+    <translated_by_vector name="Point44" persistent="true" pt1="Point10" pt2="Point3" target="Point16" visible="true"/>
+    <translated_by_vector name="Point60" persistent="true" pt1="Point10" pt2="Point2" target="Point19" visible="true"/>
+    <translated_by_vector name="Point64" persistent="true" pt1="Point10" pt2="Point3" target="Point19" visible="true"/>
+    <translated_by_vector name="Point68" persistent="true" pt1="Point10" pt2="Point1" target="Point19" visible="true"/>
+    <reflection_point center="Point6" name="Point8" persistent="true" target="Point10" visible="true"/>
+    <translated_by_vector name="Point76" persistent="true" pt1="Point10" pt2="Point1" target="Point6" visible="true"/>
+    <translated_by_vector name="Point79" persistent="true" pt1="Point10" pt2="Point2" target="Point6" visible="true"/>
+    <translated_by_vector name="Point80" persistent="true" pt1="Point10" pt2="Point3" target="Point6" visible="true"/>
+    <translated_by_vector name="Point95" persistent="true" pt1="Point10" pt2="Point3" target="Point8" visible="true"/>
+    <translated_by_vector name="Point92" persistent="true" pt1="Point10" pt2="Point2" target="Point8" visible="true"/>
+    <translated_by_vector name="Point32" persistent="true" pt1="Point10" pt2="Point1" target="Point8" visible="true"/>
+    <middle name="Point82" persistent="true" pt1="Point11" pt2="Point8" visible="true"/>
+    <middle name="Point84" persistent="true" pt1="Point14" pt2="Point8" visible="true"/>
+    <translated_by_vector name="Point87" persistent="true" pt1="Point10" pt2="Point1" target="Point82" visible="true"/>
+    <translated_by_vector name="Point88" persistent="true" pt1="Point10" pt2="Point3" target="Point82" visible="true"/>
+    <translated_by_vector name="Point91" persistent="true" pt1="Point10" pt2="Point2" target="Point82" visible="true"/>
+    <translated_by_vector name="Point96" persistent="true" pt1="Point10" pt2="Point1" target="Point84" visible="true"/>
+    <translated_by_vector name="Point99" persistent="true" pt1="Point10" pt2="Point2" target="Point84" visible="true"/>
+    <translated_by_vector name="Point100" persistent="true" pt1="Point10" pt2="Point3" target="Point84" visible="true"/>
+  </points>
+
+  <ellipse_by_three_points name="shape1" pt1="Point1" pt2="Point2" pt3="Point3" show-connections="False" stroke-width="1">
+    <Color color="#16690f" parameter="stroke-fill"/>
+    <Color color="#22d94e" parameter="fill"/>
+    <Crenelate parameter="path-transform" width="5">
+      <stepper.fixed number="36" parameter="steps"/>
+    </Crenelate>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape2" pt1="Point68" pt2="Point60" pt3="Point64" show-connections="False" stroke-width="1">
+    <Color color="#16690f" parameter="stroke-fill"/>
+    <Color color="#22d94e" parameter="fill"/>
+    <Crenelate parameter="path-transform" width="5">
+      <stepper.list list="5, 15, 10, 5" parameter="steps"/>
+    </Crenelate>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape3" pt1="Point71" pt2="Point72" pt3="Point75" show-connections="False" stroke-width="1">
+    <Color color="#16690f" parameter="stroke-fill"/>
+    <Color color="#22d94e" parameter="fill"/>
+    <RandomShift max-normal-shift="5" max-tangential-shift="5" parameter="path-transform" shift-direction="0" step="5"/>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape4" pt1="Point40" pt2="Point39" pt3="Point44" show-connections="False" stroke-width="1">
+    <Color color="#16690f" parameter="stroke-fill"/>
+    <Color color="#22d94e" parameter="fill"/>
+    <RandomShift max-normal-shift="15" max-tangential-shift="0" parameter="path-transform" shift-direction="30" step="1"/>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape5" pt1="Point76" pt2="Point79" pt3="Point80" show-connections="False" stroke-width="1">
+    <Color color="#16690f" parameter="stroke-fill"/>
+    <Color color="#22d94e" parameter="fill"/>
+    <ToStroke parameter="path-transform" width="8"/>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape6" pt1="Point96" pt2="Point99" pt3="Point100" show-connections="False" stroke-width="1">
+    <Color color="#16690f" parameter="stroke-fill"/>
+    <Color color="#22d94e" parameter="fill"/>
+    <ToStroke parameter="path-transform" width="15">
+      <RandomShift max-normal-shift="4" max-tangential-shift="0" parameter="path-transform" shift-direction="0" step="1"/>
+    </ToStroke>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape7" pt1="Point32" pt2="Point92" pt3="Point95" show-connections="False" stroke-width="1">
+    <Color color="#16690f" parameter="stroke-fill"/>
+    <Color color="#22d94e" parameter="fill"/>
+    <Truchetizer mode-link="1" mode-node="2" mode-x="6" mode-y="6" parameter="path-transform" ra="6" rb="2" x-step="15" y-step="5">
+      <truchet_element.cloud factor="0.25" parameter="element"/>
+    </Truchetizer>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape8" pt1="Point87" pt2="Point91" pt3="Point88" show-connections="False" stroke-width="1">
+    <Color color="#16690f" parameter="stroke-fill"/>
+    <Color color="#22d94e" parameter="fill"/>
+    <Truchetizer mode-link="2" mode-node="1" mode-x="5" mode-y="0" parameter="path-transform" ra="4" rb="4" x-step="10" y-step="10">
+      <truchet_element.saw factor="0.25" parameter="element"/>
+    </Truchetizer>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape9" pt1="Point56" pt2="Point48" pt3="Point52" show-connections="False" stroke-width="1">
+    <Color color="#16690f" parameter="stroke-fill"/>
+    <Color color="#22d94e" parameter="fill"/>
+    <Truchetizer mode-link="1" mode-node="2" mode-x="4" mode-y="4" parameter="path-transform" ra="2" rb="2" x-step="5" y-step="5">
+      <truchet_element.cloud factor="0.25" parameter="element"/>
+    </Truchetizer>
+  </ellipse_by_three_points>
+
+</xvg>

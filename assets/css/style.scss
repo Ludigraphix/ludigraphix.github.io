@@ -12,6 +12,13 @@ table.tools tbody tr td { font-weight: 300; text-align: left; border: 0px solid 
 
 img.icon { width:24px; height:24px; vertical-align:middle; }
 
+table.demos { border: 0px solid #fff; }
+table.demos tbody tr td { font-weight: 300; text-align: center; border: 0px solid #fff; }
+img.demos { width:1OOpx; height:100px; vertical-align:middle; text-align:right; }
+
+//span.demos table { width: 100%; border: 0px solid #fff; }
+//table tbody tr td { font-weight: 300; text-align: left; border: 0px solid #ebebeb; }
+
 ul li ul li { list-style-type: square; }
 
 aside#sidebar {

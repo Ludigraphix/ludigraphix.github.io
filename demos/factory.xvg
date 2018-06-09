@@ -1,0 +1,181 @@
+<?xml version="1.0" standalone="no"?>
+<xvg bgcolor="#ffffff" height="610" width="810">
+  <points>
+    <point cx="142" cy="557" name="Point1" persistent="false" visible="true"/>
+    <translated_point dx="582" dy="0" name="Point2" persistent="true" point="Point1" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point58" persistent="false" pt1="Point1" pt2="Point2" ratio_x="0.83916083916083917" ratio_y="0.064685314685314688" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point57" persistent="false" pt1="Point1" pt2="Point2" ratio_x="0.096494779786910068" ratio_y="-0.40817773568086374" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point5" persistent="true" pt1="Point1" pt2="Point2" ratio_x="-0.16742937927491391" ratio_y="-0.27155463819296921" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point6" persistent="true" pt1="Point1" pt2="Point2" ratio_x="0.24571223130695022" ratio_y="-0.56397266295662418" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point3" persistent="true" pt1="Point1" pt2="Point2" ratio_x="0.83312049923783238" ratio_y="-0.67026381498820109" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point72" persistent="true" pt1="Point1" pt2="Point2" ratio_x="0.014945374567035473" ratio_y="-0.75636969085271066" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point83" persistent="true" pt1="Point72" pt2="Point3" ratio_x="0.34197968039322096" ratio_y="-0.16237246988901424" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point78" persistent="false" pt1="Point72" pt2="Point3" ratio_x="-0.010932325999848048" ratio_y="-0.12262524725012672" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point75" persistent="false" pt1="Point72" pt2="Point3" ratio_x="0.40429448593100681" ratio_y="-0.12051952675704802" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point76" persistent="false" pt1="Point72" pt2="Point3" ratio_x="0.87445018620082116" ratio_y="-0.11404187507670459" visible="true"/>
+    <projected_point name="Point9" persistent="true" pt1="Point1" pt2="Point2" target="Point6" visible="true"/>
+    <projected_point name="Point10" persistent="true" pt1="Point1" pt2="Point2" target="Point3" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point77" persistent="false" pt1="Point72" pt2="Point3" ratio_x="0.96344717020664727" ratio_y="-0.07850797081467091" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point79" persistent="false" pt1="Point72" pt2="Point3" ratio_x="1.0634788020589188" ratio_y="0.050336153803419936" visible="true"/>
+    <point_on_plane angle="90.00000000004728" fixed_angle="True" fixed_ratio="false" name="Point14" persistent="true" pt1="Point3" pt2="Point10" ratio="0.24118959754840644" visible="true"/>
+    <projected_point name="Point11" persistent="true" pt1="Point9" pt2="Point6" target="Point5" visible="true"/>
+    <point_on_line name="Point22" persistent="true" pt1="Point9" pt2="Point10" ratio="0.6789745188399674" visible="true"/>
+    <projected_point name="Point36" persistent="true" pt1="Point1" pt2="Point9" target="Point5" visible="true"/>
+    <projected_point name="Point32" persistent="true" pt1="Point1" pt2="Point2" target="Point14" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point88" persistent="false" pt1="Point14" pt2="Point83" ratio_x="0.22004145092298247" ratio_y="0.097259184966687159" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point84" persistent="false" pt1="Point14" pt2="Point83" ratio_x="0.90183684999716074" ratio_y="0.10081092689383533" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point85" persistent="false" pt1="Point83" pt2="Point14" ratio_x="0.40429448593100681" ratio_y="-0.12051952675704802" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point86" persistent="false" pt1="Point83" pt2="Point14" ratio_x="0.87445018620082116" ratio_y="-0.11404187507670459" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point87" persistent="false" pt1="Point83" pt2="Point14" ratio_x="0.96344717020664727" ratio_y="-0.07850797081467091" visible="true"/>
+    <point_translated_on_line name="Point15" persistent="true" position="-12.982812066407064" pt1="Point3" pt2="Point14" visible="true"/>
+    <translated_by_vector name="Point25" persistent="true" pt1="Point9" pt2="Point22" target="Point6" visible="true"/>
+    <point_on_line name="Point24" persistent="true" pt1="Point5" pt2="Point11" ratio="0.33333333333333331" visible="true"/>
+    <point_on_line name="Point4" persistent="true" pt1="Point5" pt2="Point11" ratio="0.66666666666666663" visible="true"/>
+    <point_on_line name="Point39" persistent="true" pt1="Point36" pt2="Point5" ratio="0.41930601122717115" visible="true"/>
+    <reflection_point center="Point3" name="Point16" persistent="true" target="Point15" visible="true"/>
+    <point_translated_on_line name="Point40" persistent="true" position="-20.996663456567028" pt1="Point10" pt2="Point32" visible="true"/>
+    <point_translated_on_line name="Point44" persistent="true" position="-19.702197233176641" pt1="Point32" pt2="Point10" visible="true"/>
+    <point_on_plane angle="41.212374716202298" fixed_angle="false" fixed_ratio="false" name="Point28" persistent="true" pt1="Point5" pt2="Point24" ratio="0.92417924444466415" visible="true"/>
+    <projected_point name="Point41" persistent="true" pt1="Point25" pt2="Point22" target="Point39" visible="true"/>
+    <projected_point name="Point62" persistent="true" pt1="Point6" pt2="Point9" target="Point39" visible="true"/>
+    <point_on_line name="Point90" persistent="true" pt1="Point6" pt2="Point25" ratio="0.66666666666666663" visible="true"/>
+    <point_on_line name="Point92" persistent="true" pt1="Point6" pt2="Point25" ratio="0.33333333333333331" visible="true"/>
+    <point_translated_on_line name="Point18" persistent="true" position="-11.421722096333685" pt1="Point14" pt2="Point16" visible="true"/>
+    <reflection_point center="Point10" name="Point47" persistent="true" target="Point40" visible="true"/>
+    <reflection_point center="Point32" name="Point48" persistent="true" target="Point44" visible="true"/>
+    <intersection bounded="false" name="Point53" persistent="true" pt11="Point39" pt12="Point41" pt21="Point15" pt22="Point40" visible="true"/>
+    <projected_point name="Point64" persistent="true" pt1="Point39" pt2="Point62" target="Point24" visible="true"/>
+    <projected_point name="Point68" persistent="true" pt1="Point39" pt2="Point62" target="Point4" visible="true"/>
+    <point_on_line name="Point71" persistent="true" pt1="Point62" pt2="Point11" ratio="0.42640509766010803" visible="true"/>
+    <projected_point name="Point95" persistent="true" pt1="Point9" pt2="Point22" target="Point92" visible="true"/>
+    <projected_point name="Point96" persistent="true" pt1="Point22" pt2="Point9" target="Point90" visible="true"/>
+    <report_transform name="Point158" persistent="true" pt1="Point24" pt2="Point4" ref1="Point5" ref2="Point24" target="Point28" visible="true"/>
+    <report_transform name="Point160" persistent="true" pt1="Point4" pt2="Point11" ref1="Point5" ref2="Point24" target="Point28" visible="true"/>
+    <reflection_point center="Point14" name="Point20" persistent="true" target="Point18" visible="true"/>
+    <intersection bounded="false" name="Point54" persistent="true" pt11="Point39" pt12="Point41" pt21="Point16" pt22="Point47" visible="true"/>
+    <intersection bounded="false" name="Point56" persistent="true" pt11="Point39" pt12="Point41" pt21="Point18" pt22="Point44" visible="true"/>
+    <projected_point name="Point73" persistent="true" pt1="Point4" pt2="Point68" target="Point71" visible="true"/>
+    <projected_point name="Point74" persistent="true" pt1="Point24" pt2="Point64" target="Point71" visible="true"/>
+    <point_on_line name="Point97" persistent="true" pt1="Point92" pt2="Point95" ratio="0.66666666666666663" visible="true"/>
+    <point_on_line name="Point101" persistent="true" pt1="Point90" pt2="Point96" ratio="0.66666666666666663" visible="true"/>
+    <intersection bounded="false" name="Point55" persistent="true" pt11="Point39" pt12="Point41" pt21="Point20" pt22="Point48" visible="true"/>
+    <point_on_line name="Point98" persistent="true" pt1="Point101" pt2="Point90" ratio="0.33333333333333331" visible="true"/>
+    <point_on_line name="Point99" persistent="true" pt1="Point97" pt2="Point92" ratio="0.33333333333333331" visible="true"/>
+    <point_on_line name="Point103" persistent="true" pt1="Point97" pt2="Point101" ratio="0.35749570202181574" visible="true"/>
+    <point_on_line name="Point104" persistent="true" pt1="Point97" pt2="Point92" ratio="0.069896842058272818" visible="true"/>
+    <point_on_line name="Point132" persistent="true" pt1="Point97" pt2="Point92" ratio="0.66666666666666663" visible="true"/>
+    <point_on_line name="Point133" persistent="true" pt1="Point101" pt2="Point90" ratio="0.66666666666666663" visible="true"/>
+    <translated_by_vector name="Point108" persistent="true" pt1="Point97" pt2="Point103" target="Point99" visible="true"/>
+    <translated_by_vector name="Point112" persistent="true" pt1="Point97" pt2="Point103" target="Point101" visible="true"/>
+    <translated_by_vector name="Point116" persistent="true" pt1="Point97" pt2="Point103" target="Point98" visible="true"/>
+    <translated_by_vector name="Point128" persistent="true" pt1="Point97" pt2="Point104" target="Point99" visible="true"/>
+    <translated_by_vector name="Point124" persistent="true" pt1="Point97" pt2="Point104" target="Point98" visible="true"/>
+    <translated_by_vector name="Point120" persistent="true" pt1="Point97" pt2="Point104" target="Point101" visible="true"/>
+    <translated_by_vector name="Point143" persistent="true" pt1="Point97" pt2="Point104" target="Point132" visible="true"/>
+    <translated_by_vector name="Point148" persistent="true" pt1="Point97" pt2="Point103" target="Point133" visible="true"/>
+    <translated_by_vector name="Point152" persistent="true" pt1="Point97" pt2="Point104" target="Point133" visible="true"/>
+    <translated_by_vector name="Point144" persistent="true" pt1="Point97" pt2="Point103" target="Point132" visible="true"/>
+  </points>
+
+  <polyline closed="false" show_points="true" stroke-width="2" width="40">
+    <Color color="#505050" parameter="stroke-fill"/>
+    <SegmentEffect parameter="path-transform">
+      <stepper.random max="50" min="15" parameter="steps"/>
+      <element.cloud parameter="element">
+        <width.proportional alternate="false" factor="0.25" parameter="width"/>
+      </element.cloud>
+    </SegmentEffect>
+    <LinearGradient color1="#f0efca" color2="#d2ccaa" parameter="fill" pt1="Point84" pt2="Point88"/>
+    <line_to point="Point83"/>
+    <line_to point="Point85"/>
+    <line_to point="Point86"/>
+    <line_to point="Point87"/>
+    <line_to point="Point14"/>
+  </polyline>
+
+  <polyline closed="false" show_points="true" stroke-width="2" width="40">
+    <Color color="#505050" parameter="stroke-fill"/>
+    <SegmentEffect parameter="path-transform">
+      <stepper.random max="50" min="1" parameter="steps"/>
+      <element.cloud parameter="element">
+        <width.proportional alternate="false" factor="0.25" parameter="width"/>
+      </element.cloud>
+    </SegmentEffect>
+    <LinearGradient color1="#f0efca" color2="#d2ccaa" parameter="fill" pt1="Point78" pt2="Point79"/>
+    <line_to point="Point72"/>
+    <line_to point="Point75"/>
+    <line_to point="Point76"/>
+    <line_to point="Point77"/>
+    <line_to point="Point3"/>
+  </polyline>
+
+  <polygon closed="true" show_points="true" stroke-width="15">
+    <Color color="#000000" parameter="stroke-fill"/>
+    <LinearGradient color1="#e0e0e0" color2="#b0b0b0" parameter="fill" pt1="Point57" pt2="Point58"/>
+    <line_to point="Point36"/>
+    <line_to point="Point5"/>
+    <line_to point="Point28"/>
+    <line_to point="Point24"/>
+    <line_to point="Point158"/>
+    <line_to point="Point4"/>
+    <line_to point="Point160"/>
+    <line_to point="Point11"/>
+    <line_to point="Point6"/>
+    <line_to point="Point25"/>
+    <line_to point="Point41"/>
+    <line_to point="Point53"/>
+    <line_to point="Point15"/>
+    <line_to point="Point16"/>
+    <line_to point="Point54"/>
+    <line_to point="Point55"/>
+    <line_to point="Point20"/>
+    <line_to point="Point18"/>
+    <line_to point="Point44"/>
+  </polygon>
+
+  <square_by_side corner1="Point62" corner2="Point71" name="shape1" show-connections="true" stroke-width="2">
+    <Color color="#11858e" parameter="fill"/>
+    <Color color="#00000000" parameter="stroke-fill"/>
+  </square_by_side>
+
+  <square_by_side corner1="Point68" corner2="Point73" name="shape2" show-connections="true" stroke-width="2">
+    <Color color="#11858e" parameter="fill"/>
+    <Color color="#00000000" parameter="stroke-fill"/>
+  </square_by_side>
+
+  <square_by_side corner1="Point64" corner2="Point74" name="shape3" show-connections="true" stroke-width="2">
+    <Color color="#11858e" parameter="fill"/>
+    <Color color="#00000000" parameter="stroke-fill"/>
+  </square_by_side>
+
+  <rectangle_by_center_two_points center="Point97" name="shape4" pt1="Point103" pt2="Point104" show-connections="true" stroke-width="2">
+    <Color color="#67a5d8" parameter="fill"/>
+    <Color color="#00000000" parameter="stroke-fill"/>
+  </rectangle_by_center_two_points>
+
+  <rectangle_by_center_two_points center="Point101" name="shape5" pt1="Point112" pt2="Point120" show-connections="true" stroke-width="2">
+    <Color color="#67a5d8" parameter="fill"/>
+    <Color color="#00000000" parameter="stroke-fill"/>
+  </rectangle_by_center_two_points>
+
+  <rectangle_by_center_two_points center="Point98" name="shape6" pt1="Point116" pt2="Point124" show-connections="true" stroke-width="2">
+    <Color color="#67a5d8" parameter="fill"/>
+    <Color color="#00000000" parameter="stroke-fill"/>
+  </rectangle_by_center_two_points>
+
+  <rectangle_by_center_two_points center="Point99" name="shape7" pt1="Point108" pt2="Point128" show-connections="true" stroke-width="2">
+    <Color color="#67a5d8" parameter="fill"/>
+    <Color color="#00000000" parameter="stroke-fill"/>
+  </rectangle_by_center_two_points>
+
+  <rectangle_by_center_two_points center="Point132" name="shape9" pt1="Point143" pt2="Point144" show-connections="true" stroke-width="2">
+    <Color color="#67a5d8" parameter="fill"/>
+    <Color color="#00000000" parameter="stroke-fill"/>
+  </rectangle_by_center_two_points>
+
+  <rectangle_by_center_two_points center="Point133" name="shape10" pt1="Point148" pt2="Point152" show-connections="true" stroke-width="2">
+    <Color color="#67a5d8" parameter="fill"/>
+    <Color color="#00000000" parameter="stroke-fill"/>
+  </rectangle_by_center_two_points>
+
+</xvg>

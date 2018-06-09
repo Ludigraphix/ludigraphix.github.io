@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="no"?>
+<xvg bgcolor="#000000" height="512" width="512">
+  <points>
+    <point cx="240" cy="237.41421356237311" name="Point2" persistent="true" visible="true"/>
+    <translated_point dx="250.99999999999972" dy="52.999999999999673" name="Point29" persistent="true" point="Point2" visible="true"/>
+    <point_on_plane angle="14.864631629768178" fixed_angle="True" fixed_ratio="false" name="Point8" persistent="true" pt1="Point2" pt2="Point29" ratio="1.1915577426540744" visible="true"/>
+    <point_on_plane angle="-140.71375946464477" fixed_angle="false" fixed_ratio="false" name="Point20" persistent="true" pt1="Point2" pt2="Point8" ratio="0.84925719492209129" visible="true"/>
+    <point_on_plane angle="28.148689220196818" fixed_angle="false" fixed_ratio="false" name="Point23" persistent="true" pt1="Point2" pt2="Point8" ratio="1.144170776355103" visible="true"/>
+    <point_on_plane angle="-29.467953253146412" fixed_angle="false" fixed_ratio="false" name="Point3" persistent="true" pt1="Point2" pt2="Point8" ratio="0.91193388785136609" visible="true"/>
+    <point_on_plane angle="39.351229974217546" fixed_angle="false" fixed_ratio="false" name="Point6" persistent="true" pt1="Point2" pt2="Point8" ratio="0.89893405659273129" visible="true"/>
+    <point_on_plane angle="-104.52915605008764" fixed_angle="false" fixed_ratio="false" name="Point14" persistent="true" pt1="Point2" pt2="Point8" ratio="0.82215675002400412" visible="true"/>
+    <point_on_plane angle="-177.44869813395763" fixed_angle="false" fixed_ratio="false" name="Point21" persistent="true" pt1="Point2" pt2="Point8" ratio="0.72659509400562272" visible="true"/>
+    <point_on_plane angle="113.14740122224602" fixed_angle="false" fixed_ratio="false" name="Point27" persistent="true" pt1="Point2" pt2="Point8" ratio="0.77459915249219391" visible="true"/>
+    <middle name="Point1" persistent="true" pt1="Point2" pt2="Point3" visible="true"/>
+    <middle name="Point4" persistent="true" pt1="Point2" pt2="Point6" visible="true"/>
+    <middle name="Point7" persistent="true" pt1="Point3" pt2="Point6" visible="true"/>
+    <middle name="Point13" persistent="true" pt1="Point14" pt2="Point2" visible="true"/>
+    <middle name="Point16" persistent="true" pt1="Point14" pt2="Point3" visible="true"/>
+    <middle name="Point19" persistent="true" pt1="Point2" pt2="Point21" visible="true"/>
+    <middle name="Point22" persistent="true" pt1="Point21" pt2="Point14" visible="true"/>
+    <middle name="Point25" persistent="true" pt1="Point21" pt2="Point27" visible="true"/>
+    <middle name="Point28" persistent="true" pt1="Point27" pt2="Point2" visible="true"/>
+    <middle name="Point31" persistent="true" pt1="Point27" pt2="Point6" visible="true"/>
+  </points>
+
+  <ellipse_by_three_points name="shape5" pt1="Point22" pt2="Point19" pt3="Point13" show-connections="true" stroke-width="11">
+    <LinearGradient color1="#188ae7" color2="#80ffff" parameter="fill" pt1="Point20" pt2="Point23"/>
+    <Color color="#000000" parameter="stroke-fill"/>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape1" pt1="Point13" pt2="Point1" pt3="Point16" show-connections="true" stroke-width="11">
+    <LinearGradient color1="#188ae7" color2="#80ffff" parameter="fill" pt1="Point20" pt2="Point23"/>
+    <Color color="#000000" parameter="stroke-fill"/>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape2" pt1="Point1" pt2="Point4" pt3="Point7" show-connections="true" stroke-width="11">
+    <LinearGradient color1="#188ae7" color2="#80ffff" parameter="fill" pt1="Point20" pt2="Point23"/>
+    <Color color="#000000" parameter="stroke-fill"/>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape6" pt1="Point28" pt2="Point31" pt3="Point4" show-connections="true" stroke-width="11">
+    <LinearGradient color1="#188ae7" color2="#80ffff" parameter="fill" pt1="Point20" pt2="Point23"/>
+    <Color color="#000000" parameter="stroke-fill"/>
+  </ellipse_by_three_points>
+
+  <ellipse_by_three_points name="shape8" pt1="Point19" pt2="Point25" pt3="Point28" show-connections="True" stroke-width="11">
+    <LinearGradient color1="#188ae7" color2="#80ffff" parameter="fill" pt1="Point20" pt2="Point23"/>
+    <Color color="#000000" parameter="stroke-fill"/>
+  </ellipse_by_three_points>
+
+  <polyline closed="false" show_points="True" stroke-width="0" width="12">
+    <LinearGradient color1="#ff8000" color2="#f8b550" parameter="fill" pt1="Point20" pt2="Point23"/>
+    <line_to point="Point2"/>
+    <line_to point="Point21"/>
+    <line_to point="Point27"/>
+    <line_to point="Point2"/>
+    <line_to point="Point27"/>
+    <line_to point="Point6"/>
+    <line_to point="Point2"/>
+    <line_to point="Point6"/>
+    <line_to point="Point3"/>
+    <line_to point="Point2"/>
+    <line_to point="Point3"/>
+    <line_to point="Point14"/>
+    <line_to point="Point2"/>
+    <line_to point="Point14"/>
+    <line_to point="Point21"/>
+  </polyline>
+
+</xvg>
