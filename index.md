@@ -1,3 +1,6 @@
+---
+title: Geometry oriented vector drawing software
+---
 
 # What is Ludigraphix ?
 
@@ -39,3 +42,4 @@ Ludigraphix is currently available on the [Mac App Store](https://itunes.apple.c
 This documentation is a work in progress.
   - You can request some documention improvments on [issues page](https://github.com/Ludigraphix/ludigraphix.github.io/issues)
   - You can propose changes on [ludigraphix.github.io project](https://github.com/Ludigraphix/ludigraphix.github.io)
+
