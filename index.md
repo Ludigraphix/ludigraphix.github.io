@@ -10,6 +10,18 @@ Drawings can be saved in a custom format and exported to svg or png files.
 
 ![LGX-demo-intro-01.gif](https://i.imgur.com/dWxK4p1.gif)
 
+* Type of Shapes:
+  - Circles (3 construction modes: by center-radius, by diameter, by 3 points on circle)
+  - Ellipses (4 construction modes)
+  - Squares (4 construction modes)
+  - Rectangles (3 construction modes)
+  - Polygon and polyline
+  - Bezier curve and line
+* 18 types of points: middle, symmetric, translated ...
+* 11 Color effects: gradients, Perlin noise, inverse, hue rotation ...
+* 6 Paths effets: Crenelate, Random moves, Truchet effect ...
+
+
 # How to get Ludigraphix ?
 
 Ludigraphix is currently available on the [Mac App Store](https://itunes.apple.com/fr/app/ludigraphix/id1376937727)
@@ -36,7 +48,7 @@ Ludigraphix is currently available on the [Mac App Store](https://itunes.apple.c
 
 ## How to use [path effects](path-effects) ?
 
-## Here is [some examples](examples)
+## Here is [some downloadable examples](examples)
 
 # Improvments
 This documentation is a work in progress.
