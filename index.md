@@ -50,6 +50,8 @@ Ludigraphix is currently available on the [Mac App Store](https://itunes.apple.c
 
 ## Here is [some downloadable examples](examples)
 
+## [Release notes](release-notes)
+
 # Improvments
 This documentation is a work in progress.
   - You can request some documention improvments on [issues page](https://github.com/Ludigraphix/ludigraphix.github.io/issues)
