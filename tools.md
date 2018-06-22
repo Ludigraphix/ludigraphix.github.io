@@ -101,7 +101,7 @@
 
 ### Point creation modes
 
- - Create or select existing point as reference points then create the point at given position
+ - Create or select existing points as reference points then create the point at given position
  - Ratios and angles are chosen during last step
  - You can replace an already existing point at last step
  - You can use &#8984; to force point position to rounded ratio/angle
@@ -143,7 +143,7 @@
 </table>
 
 ### Translated points creation modes
- - Create or select existing point as reference points then create the points at given position
+ - Create or select existing points as reference points then create the points at given position
  - Distance and angles are chosen during last step
  - You can replace an already existing point at last step
  - you can use &#8984; to force point position to rounded distance/angle
@@ -178,7 +178,7 @@
 </table>
 
 ### Computed points creation modes
- - Create or select existing point as reference point. The generated point is shown during last step.
+ - Create or select existing points as reference point. The generated point is shown during last step.
 <table class="tools">
     <tbody>
         <tr>
@@ -265,7 +265,7 @@
 
 ### Circles creation modes
 
- - Create or select existing point as reference point, the generated circle is shown during construction.
+ - Create or select existing points as reference point, the generated circle is shown during construction.
 
 <table class="tools">
     <tbody>
@@ -292,7 +292,7 @@
 
 ### Ellipses creation modes
 
- - Create or select existing point as reference point, the generated ellipse is shown during construction.
+ - Create or select existing points as reference point, the generated ellipse is shown during construction.
 
 <table class="tools">
     <tbody>
@@ -325,7 +325,7 @@
 
 ### Squares creation modes
 
- - Create or select existing point as reference point, the generated square is shown during construction.
+ - Create or select existing points as reference point, the generated square is shown during construction.
 
 <table class="tools">
     <tbody>
@@ -358,7 +358,7 @@
 
 ### Rectangles creation modes
 
- - Create or select existing point as reference point, the generated rectangle is shown during construction.
+ - Create or select existing points as reference point, the generated rectangle is shown during construction.
 
 <table class="tools">
     <tbody>
