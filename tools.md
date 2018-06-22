@@ -105,7 +105,7 @@
  - Ratios and angles are chosen during last step
  - You can replace an already existing point at last step
  - You can use &#8984; to force point position to rounded ratio/angle
- - You can heep &#x21E7; to create a sequence of points based on the same references points
+ - You can keep &#x21E7; pressed at last step to create a sequence of points based on the same references points
 
 <table class="tools">
     <tbody>
@@ -147,7 +147,7 @@
  - Distance and angles are chosen during last step
  - You can replace an already existing point at last step
  - you can use &#8984; to force point position to rounded distance/angle
- - you can heep &#x21E7; to create a sequence of points based on the same references points
+ - you can keep &#x21E7; pressed at last step to create a sequence of points based on the same references points
 <table class="tools">
     <tbody>
         <tr>
