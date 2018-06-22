@@ -101,7 +101,7 @@
 
 ### Point creation modes
 
- - Create or select existing point as reference point then create the point at given position
+ - Create or select existing point as reference points then create the point at given position
  - Ratios and angles are chosen during last step
  - You can replace an already existing point at last step
  - You can use &#8984; to force point position to rounded ratio/angle
@@ -143,7 +143,7 @@
 </table>
 
 ### Translated points creation modes
- - Create or select existing point as reference point then create the points at given position
+ - Create or select existing point as reference points then create the points at given position
  - Distance and angles are chosen during last step
  - You can replace an already existing point at last step
  - you can use &#8984; to force point position to rounded distance/angle
