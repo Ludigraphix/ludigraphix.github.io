@@ -333,25 +333,25 @@
             <td width="40">
                 <img width="32" height="32" src="./icons/SquareByCenterCorner@2x.png">
             </td>
-            <td>square by its center and a corner</td>
+            <td>Draw a square by its center and a corner</td>
         </tr>
         <tr>
             <td width="40">
                 <img width="32" height="32" src="./icons/SquareByDiameter@2x.png">
             </td>
-            <td>Draw a square its diameter</td>
+            <td>Draw a square by its diameter</td>
         </tr>
         <tr>
             <td width="40">
                 <img width="32" height="32" src="./icons/SquareBySide@2x.png">
             </td>
-            <td>Draw a square two corners of a side of the square</td>
+            <td>Draw a square by two corners of a side of the square</td>
         </tr>
         <tr>
             <td width="40">
                 <img width="32" height="32" src="./icons/SquareByAxis@2x.png">
             </td>
-            <td>Draw a square two points on the axis of the square</td>
+            <td>Draw a square by two points on the axis of the square</td>
         </tr>
     </tbody>
 </table>
@@ -366,7 +366,7 @@
             <td width="40">
                 <img width="32" height="32" src="./icons/RectangleByCenterPoints@2x.png">
             </td>
-            <td>Draw a by its center and two points on sides</td>
+            <td>Draw a rectangle by its center and two points on sides</td>
         </tr>
         <tr>
             <td width="40">
