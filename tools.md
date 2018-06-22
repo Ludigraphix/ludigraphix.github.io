@@ -52,6 +52,12 @@
             </td>
             <td>Zoom image</td>
         </tr>
+        <tr>
+            <td width="40">
+                <img width="32" height="32" src="./icons/FullScreen@2x.png">
+            </td>
+            <td>Switch off full screen mode, visible only in full screen mode</td>
+        </tr>
     </tbody>
 </table>
 
@@ -80,7 +86,7 @@
     </tbody>
 </table>
 
-### Simple point creation modes
+### Elementary point creation mode
 
 <table class="tools">
     <tbody>
@@ -88,8 +94,21 @@
             <td width="40">
                 <img width="32" height="32" src="./icons/AddPoint@2x.png">
             </td>
-            <td>Add a new point</td>
+            <td>Create a new independent point or change an existing point to an independant point</td>
         </tr>
+    </tbody>
+</table>
+
+### Point creation modes
+
+ - Create or select existing point as reference point then create the point at given position
+ - Ratios and angles are chosen during last step
+ - You can replace an already existing point at last step
+ - You can use &#8984; to force point position to rounded ratio/angle
+ - You can heep &#x21E7; to create a sequence of points based on the same references points
+
+<table class="tools">
+    <tbody>
         <tr>
             <td width="40">
                 <img width="32" height="32" src="./icons/PointOnLine@2x.png">
@@ -124,38 +143,42 @@
 </table>
 
 ### Translated points creation modes
-
+ - Create or select existing point as reference point then create the points at given position
+ - Distance and angles are chosen during last step
+ - You can replace an already existing point at last step
+ - you can use &#8984; to force point position to rounded distance/angle
+ - you can heep &#x21E7; to create a sequence of points based on the same references points
 <table class="tools">
     <tbody>
         <tr>
             <td width="40">
                 <img width="32" height="32" src="./icons/TranslatedPoint@2x.png">
             </td>
-            <td>Translated point</td>
+            <td>Create a point translated by a constant value</td>
         </tr>
         <tr>
             <td width="40">
                 <img width="32" height="32" src="./icons/PointTranslatedOnLine@2x.png">
             </td>
-            <td>Translated point on line</td>
+            <td>Create a point on a line, distance from the first point is a constant value</td>
         </tr>
         <tr>
             <td width="40">
                 <img width="32" height="32" src="./icons/PointOnBisector@2x.png">
             </td>
-            <td>Point on bisector</td>
+            <td>Create a point on the bisector, distance is a constant value</td>
         </tr>
         <tr>
             <td width="40">
                 <img width="32" height="32" src="./icons/PointOnNormal@2x.png">
             </td>
-            <td>Point on normal</td>
+            <td>Create a point on normal, distance is a constant value</td>
         </tr>
     </tbody>
 </table>
 
 ### Computed points creation modes
-
+ - Create or select existing point as reference point. The generated point is shown during last step.
 <table class="tools">
     <tbody>
         <tr>
@@ -210,7 +233,7 @@
 </table>
 
 ### Shapes, lines and curves creation modes
-
+ - Double click or right-click to finish the shape
 <table class="tools">
     <tbody>
         <tr>
@@ -242,6 +265,8 @@
 
 ### Circles creation modes
 
+ - Create or select existing point as reference point, the generated circle is shown during construction.
+
 <table class="tools">
     <tbody>
         <tr>
@@ -266,6 +291,8 @@
 </table>
 
 ### Ellipses creation modes
+
+ - Create or select existing point as reference point, the generated ellipse is shown during construction.
 
 <table class="tools">
     <tbody>
@@ -298,6 +325,8 @@
 
 ### Squares creation modes
 
+ - Create or select existing point as reference point, the generated square is shown during construction.
+
 <table class="tools">
     <tbody>
         <tr>
@@ -328,6 +357,8 @@
 </table>
 
 ### Rectangles creation modes
+
+ - Create or select existing point as reference point, the generated rectangle is shown during construction.
 
 <table class="tools">
     <tbody>
