@@ -4,7 +4,7 @@ title: Geometry oriented vector drawing software
 
 # What is Ludigraphix ?
 
-Ludigraphix is a geometry oriented vector drawing software. This mean that shapes are defined by points that can be shared with other shapes. This allow you to build complex shapes that can be manipulated in a lot of different ways.
+Ludigraphix is a geometry oriented vector drawing software. This means that shapes are defined by points that can be shared with other shapes. This allows you to build complex shapes that can be manipulated in a lot of different ways.
 
 Drawings can be saved in a custom format and exported to svg or png files.
 
