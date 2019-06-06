@@ -6,6 +6,10 @@
 td { padding: 3px; }
 th { font-weight: 500; }
 
+img {
+    box-shadow: 2px 2px 6px rgba(0,0,0,.3);
+}
+
 table.tools { width: 100%; border: 0px solid #ebebeb; }
 
 table.tools tbody tr td { font-weight: 300; text-align: left; border: 0px solid #ebebeb; }
@@ -14,7 +18,15 @@ img.icon { width:24px; height:24px; vertical-align:middle; }
 
 table.demos { border: 0px solid #fff; }
 table.demos tbody tr td { font-weight: 300; text-align: center; border: 0px solid #fff; }
-img.demos { width:1OOpx; height:100px; vertical-align:middle; text-align:right; }
+img.demos {
+    width:1OOpx; height:100px;
+    vertical-align:middle; text-align:right;
+    border: 1px solid white;
+    box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+}
+img.demos:hover {
+    transform:scale(2.0);
+}
 
 //span.demos table { width: 100%; border: 0px solid #fff; }
 //table tbody tr td { font-weight: 300; text-align: left; border: 0px solid #ebebeb; }
