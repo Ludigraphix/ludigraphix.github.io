@@ -22,7 +22,7 @@ Drawings can be saved in a custom format and exported to svg or png files.
 
 <br>
 {% if page.slider %}
-  {% include slider.html height="400" unit="px" transition="slide" duration="7" %}
+  {% include slider.html height="400" unit="px" transition="slide" duration="10" %}
 {% endif %}
 <br/>
 
