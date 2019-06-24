@@ -19,7 +19,7 @@ img.icon { width:24px; height:24px; vertical-align:middle; }
 table.demos { border: 0px solid #fff; }
 table.demos tbody tr td { font-weight: 300; text-align: center; border: 0px solid #fff; }
 img.demos {
-    width:1OOpx; height:100px;
+    width:auto; height:100px;
     vertical-align:middle; text-align:right;
     border: 1px solid white;
     box-shadow: 0px 0px 8px rgba(0,0,0,.3);
@@ -28,8 +28,18 @@ img.demos:hover {
     transform:scale(2.0);
 }
 
-//span.demos table { width: 100%; border: 0px solid #fff; }
-//table tbody tr td { font-weight: 300; text-align: left; border: 0px solid #ebebeb; }
+.carousel-indicators .active {
+	width: 20px;
+	height: 20px;
+	background-color: #777;
+}
+.carousel-indicators li {
+	width: 15px;
+	height: 15px;
+	background-color: #fff;
+	border: 2px solid #000;
+	border-radius: 15px;
+}
 
 ul li ul li { list-style-type: square; }
 

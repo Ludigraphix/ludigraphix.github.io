@@ -1,5 +1,17 @@
 ---
 title: Geometry oriented vector drawing software
+slider:
+  text_color: black 
+  shadow_color: black 
+  image_width: 500 
+  image_height: 400
+  slides: 
+    - image: https://ludigraphix.com/images/LGX-demo-intro-02.gif 
+      slide_html:
+    - image: https://ludigraphix.com/images/LGX-demo-tree.gif 
+      slide_html:
+    - image: https://ludigraphix.com/images/LGX-demo-palmtree.gif 
+      slide_html:
 ---
 
 # What is Ludigraphix ?
@@ -8,7 +20,11 @@ Ludigraphix is a geometry oriented vector drawing software. This means that shap
 
 Drawings can be saved in a custom format and exported to svg or png files.
 
-![LGX-demo-intro-01.gif](https://i.imgur.com/dWxK4p1.gif)
+<br>
+{% if page.slider %}
+  {% include slider.html height="400" unit="px" transition="slide" duration="7" %}
+{% endif %}
+<br/>
 
 * Type of Shapes:
   - Circles (3 construction modes: by center-radius, by diameter, by 3 points on circle)
@@ -23,7 +39,7 @@ Drawings can be saved in a custom format and exported to svg or png files.
 
 
 # How to get Ludigraphix ?
-
+<br>
 Ludigraphix is currently available on the [Mac App Store](https://itunes.apple.com/fr/app/ludigraphix/id1376937727)
 
 # Documentation
