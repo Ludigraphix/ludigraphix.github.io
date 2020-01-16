@@ -19,6 +19,11 @@
       <td><a href="demos/factory.xvg">download</a></td>
     </tr>
     <tr>
+      <td> Bat icon </td>
+      <td> <img class="demos" src="demos/Bat.png" /></td>
+      <td><a href="demos/Bat.xvg">download</a></td>
+    </tr>
+    <tr>
       <td> Ludigraphix icon </td>
       <td> <img class="demos" src="demos/lgx-icon.png" /></td>
       <td><a href="demos/lgx-icon.xvg">download</a></td>

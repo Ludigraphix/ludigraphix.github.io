@@ -1,0 +1,109 @@
+<?xml version="1.0" standalone="no"?>
+<xvg bgcolor="#ffffff00" height="600" width="800">
+  <points>
+    <point cx="400" cy="586" name="Point1" persistent="false" visible="true"/>
+    <point cx="400" cy="43" name="Point37" persistent="true" visible="true"/>
+    <point_on_line name="Point24" persistent="true" pt1="Point1" pt2="Point37" ratio="0.86881960871483688" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point3" persistent="false" pt1="Point1" pt2="Point37" ratio_x="0.19362398132746184" ratio_y="-0.29017062882731004" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point6" persistent="false" pt1="Point1" pt2="Point37" ratio_x="0.25182328680731647" ratio_y="-0.52172419638854317" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point9" persistent="false" pt1="Point1" pt2="Point37" ratio_x="0.93022451382768867" ratio_y="-0.49851748192708478" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point15" persistent="false" pt1="Point1" pt2="Point37" ratio_x="1.0380053959012028" ratio_y="-0.14565162129440662" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point2" persistent="false" pt1="Point1" pt2="Point37" ratio_x="0.18021482752788334" ratio_y="-0.02014210429441618" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point5" persistent="false" pt1="Point1" pt2="Point37" ratio_x="0.41064958006998692" ratio_y="-0.24628127704237046" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point4" persistent="false" pt1="Point1" pt2="Point37" ratio_x="0.45434184610898515" ratio_y="-0.16362055028635994" visible="true"/>
+    <point_on_line name="Point111" persistent="true" pt1="Point1" pt2="Point37" ratio="0.14733409197225097" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point31" persistent="false" pt1="Point111" pt2="Point24" ratio_x="0.17823831148610764" ratio_y="-0.3642609589913402" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point32" persistent="false" pt1="Point111" pt2="Point24" ratio_x="0.30066282974584635" ratio_y="-0.72323910267799396" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point81" persistent="false" pt1="Point111" pt2="Point24" ratio_x="0.95779189134342302" ratio_y="-0.69135489633648339" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point82" persistent="false" pt1="Point111" pt2="Point24" ratio_x="1.1611260324947923" ratio_y="-0.13055097999163717" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point83" persistent="false" pt1="Point111" pt2="Point24" ratio_x="0.18021482752788334" ratio_y="-0.02014210429441618" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point84" persistent="false" pt1="Point111" pt2="Point24" ratio_x="0.40288369996650958" ratio_y="-0.27692153506393774" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point85" persistent="false" pt1="Point111" pt2="Point24" ratio_x="0.39017236415018347" ratio_y="-0.21205631148279358" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point12" persistent="false" pt1="Point9" pt2="Point15" ratio_x="0.76948751596359533" ratio_y="0.64444867089026159" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point10" persistent="false" pt1="Point6" pt2="Point9" ratio_x="0.57765899054485148" ratio_y="-0.31409377547062639" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point8" persistent="false" pt1="Point6" pt2="Point9" ratio_x="0.11784126935163586" ratio_y="-0.11868730764282674" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point7" persistent="false" pt1="Point6" pt2="Point9" ratio_x="0.24976901310156593" ratio_y="0.047858523155897136" visible="true"/>
+    <symmetric_point name="Point39" persistent="true" pt1="Point37" pt2="Point1" target="Point3" visible="true"/>
+    <symmetric_point name="Point40" persistent="true" pt1="Point1" pt2="Point37" target="Point6" visible="true"/>
+    <symmetric_point name="Point45" persistent="true" pt1="Point1" pt2="Point37" target="Point9" visible="true"/>
+    <symmetric_point name="Point41" persistent="true" pt1="Point37" pt2="Point1" target="Point15" visible="true"/>
+    <symmetric_point name="Point21" persistent="true" pt1="Point1" pt2="Point37" target="Point2" visible="true"/>
+    <symmetric_point name="Point28" persistent="true" pt1="Point1" pt2="Point37" target="Point5" visible="true"/>
+    <symmetric_point name="Point30" persistent="true" pt1="Point1" pt2="Point37" target="Point4" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point86" persistent="false" pt1="Point81" pt2="Point82" ratio_x="0.64839055953049962" ratio_y="0.51394695679086155" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point87" persistent="false" pt1="Point32" pt2="Point81" ratio_x="0.58045104204151265" ratio_y="-0.21556422267224148" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point88" persistent="false" pt1="Point32" pt2="Point81" ratio_x="0.1373276342215535" ratio_y="-0.11180939088975995" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point89" persistent="false" pt1="Point32" pt2="Point81" ratio_x="0.24976901310156593" ratio_y="0.047858523155897136" visible="true"/>
+    <symmetric_point name="Point90" persistent="true" pt1="Point24" pt2="Point111" target="Point31" visible="true"/>
+    <symmetric_point name="Point91" persistent="true" pt1="Point111" pt2="Point24" target="Point32" visible="true"/>
+    <symmetric_point name="Point92" persistent="true" pt1="Point111" pt2="Point24" target="Point81" visible="true"/>
+    <symmetric_point name="Point93" persistent="true" pt1="Point24" pt2="Point111" target="Point82" visible="true"/>
+    <symmetric_point name="Point94" persistent="true" pt1="Point111" pt2="Point24" target="Point83" visible="true"/>
+    <symmetric_point name="Point95" persistent="true" pt1="Point111" pt2="Point24" target="Point84" visible="true"/>
+    <symmetric_point name="Point96" persistent="true" pt1="Point111" pt2="Point24" target="Point85" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point16" persistent="false" pt1="Point15" pt2="Point12" ratio_x="0.40304576503984102" ratio_y="-0.28382012533232509" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point11" persistent="false" pt1="Point9" pt2="Point12" ratio_x="0.51259903601231838" ratio_y="0.46804669544931682" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point13" persistent="false" pt1="Point9" pt2="Point12" ratio_x="0.84983528467535518" ratio_y="0.20506870012819139" visible="true"/>
+    <symmetric_point name="Point46" persistent="true" pt1="Point1" pt2="Point37" target="Point12" visible="true"/>
+    <symmetric_point name="Point80" persistent="true" pt1="Point1" pt2="Point37" target="Point10" visible="true"/>
+    <symmetric_point name="Point48" persistent="true" pt1="Point1" pt2="Point37" target="Point8" visible="true"/>
+    <symmetric_point name="Point47" persistent="true" pt1="Point1" pt2="Point37" target="Point7" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point17" persistent="false" pt1="Point15" pt2="Point41" ratio_x="0.3663043318692531" ratio_y="0.22245573847457145" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point20" persistent="true" pt1="Point12" pt2="Point15" ratio_x="0.29740552075782262" ratio_y="0.23926836362296858" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point97" persistent="false" pt1="Point82" pt2="Point86" ratio_x="0.40304576503984102" ratio_y="-0.28382012533232509" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point98" persistent="false" pt1="Point81" pt2="Point86" ratio_x="0.54406718935624632" ratio_y="0.3291348094013461" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point99" persistent="false" pt1="Point81" pt2="Point86" ratio_x="0.76219894461708937" ratio_y="0.16318319292026345" visible="true"/>
+    <symmetric_point name="Point100" persistent="true" pt1="Point111" pt2="Point24" target="Point86" visible="true"/>
+    <symmetric_point name="Point101" persistent="true" pt1="Point111" pt2="Point24" target="Point87" visible="true"/>
+    <symmetric_point name="Point102" persistent="true" pt1="Point111" pt2="Point24" target="Point88" visible="true"/>
+    <symmetric_point name="Point103" persistent="true" pt1="Point111" pt2="Point24" target="Point89" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point104" persistent="false" pt1="Point82" pt2="Point93" ratio_x="0.3663043318692531" ratio_y="0.22245573847457145" visible="true"/>
+    <point_on_cartesian_plane fixed_x="false" fixed_y="false" name="Point105" persistent="true" pt1="Point86" pt2="Point82" ratio_x="0.29740552075782262" ratio_y="0.23926836362296858" visible="true"/>
+    <symmetric_point name="Point76" persistent="true" pt1="Point1" pt2="Point37" target="Point11" visible="true"/>
+    <symmetric_point name="Point64" persistent="true" pt1="Point1" pt2="Point37" target="Point13" visible="true"/>
+    <symmetric_point name="Point27" persistent="true" pt1="Point1" pt2="Point37" target="Point17" visible="true"/>
+    <symmetric_point name="Point22" persistent="true" pt1="Point1" pt2="Point37" target="Point16" visible="true"/>
+    <symmetric_point name="Point52" persistent="true" pt1="Point1" pt2="Point37" target="Point20" visible="true"/>
+    <symmetric_point name="Point106" persistent="true" pt1="Point111" pt2="Point24" target="Point98" visible="true"/>
+    <symmetric_point name="Point107" persistent="true" pt1="Point111" pt2="Point24" target="Point99" visible="true"/>
+    <symmetric_point name="Point108" persistent="true" pt1="Point111" pt2="Point24" target="Point104" visible="true"/>
+    <symmetric_point name="Point109" persistent="true" pt1="Point111" pt2="Point24" target="Point97" visible="true"/>
+    <symmetric_point name="Point110" persistent="true" pt1="Point111" pt2="Point24" target="Point105" visible="true"/>
+  </points>
+
+  <beziergon closed="true" name="Shape1" show_points="True" start="Point1" stroke-width="1">
+    <Color color="#606060" parameter="fill"/>
+    <Color color="#000000" parameter="stroke-fill"/>
+    <points/>
+    <curve_to ctr1="Point2" ctr2="Point4" end="Point3"/>
+    <curve_to ctr1="Point5" ctr2="Point7" end="Point6"/>
+    <curve_to ctr1="Point8" ctr2="Point10" end="Point9"/>
+    <curve_to ctr1="Point11" ctr2="Point13" end="Point12"/>
+    <curve_to ctr1="Point20" ctr2="Point16" end="Point15"/>
+    <curve_to ctr1="Point17" ctr2="Point27" end="Point41"/>
+    <curve_to ctr1="Point22" ctr2="Point52" end="Point46"/>
+    <curve_to ctr1="Point64" ctr2="Point76" end="Point45"/>
+    <curve_to ctr1="Point80" ctr2="Point48" end="Point40"/>
+    <curve_to ctr1="Point47" ctr2="Point28" end="Point39"/>
+    <curve_to ctr1="Point30" ctr2="Point21" end="Point1"/>
+  </beziergon>
+
+  <beziergon closed="true" name="Shape2" show_points="True" start="Point111" stroke-width="1">
+    <Color color="#303030" parameter="fill"/>
+    <Color color="#ffff00" parameter="stroke-fill"/>
+    <RandomShift max-normal-shift="2" max-tangential-shift="10" parameter="path-transform" shift-direction="0" step="2"/>
+    <points/>
+    <curve_to ctr1="Point83" ctr2="Point85" end="Point31"/>
+    <curve_to ctr1="Point84" ctr2="Point89" end="Point32"/>
+    <curve_to ctr1="Point88" ctr2="Point87" end="Point81"/>
+    <curve_to ctr1="Point98" ctr2="Point99" end="Point86"/>
+    <curve_to ctr1="Point105" ctr2="Point97" end="Point82"/>
+    <curve_to ctr1="Point104" ctr2="Point108" end="Point93"/>
+    <curve_to ctr1="Point109" ctr2="Point110" end="Point100"/>
+    <curve_to ctr1="Point107" ctr2="Point106" end="Point92"/>
+    <curve_to ctr1="Point101" ctr2="Point102" end="Point91"/>
+    <curve_to ctr1="Point103" ctr2="Point95" end="Point90"/>
+    <curve_to ctr1="Point96" ctr2="Point94" end="Point111"/>
+  </beziergon>
+
+</xvg>
