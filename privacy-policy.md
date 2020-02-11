@@ -1,0 +1,1 @@
+Ludigraphix does not access, collect or transmit personal information. Ludigraphix does not make network connections.
