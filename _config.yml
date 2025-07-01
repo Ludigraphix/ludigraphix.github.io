@@ -1,5 +1,6 @@
 theme: jekyll-theme-architect
 title: Ludigraphix
 description: Welcome to open documentation page for Ludigraphix !
+url: "https://www.ludigraphix.org"
 plugins:
   - jekyll-sitemap
